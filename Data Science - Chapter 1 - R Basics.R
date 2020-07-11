@@ -4,7 +4,7 @@
 ## CHAPTER 1. R BASICS.
 #################################################################################
 
-setwd("~/DataScienceTraining")
+setwd("~/Documents/Trainings/DataScienceTraining")
 
 library(tidyverse)
 library(dslabs)
