@@ -4,7 +4,11 @@
 ## CHAPTER 4. INFERENCE & MODELING
 #################################################################################
 
+<<<<<<< HEAD
 setwd("~/Documents/Trainings/DataScienceTraining")
+=======
+setwd("~/Documents/Trainings/R for Analytics")
+>>>>>>> e9b2556e22f9d82e0337e10628a5eac57d688ace
 
 ###############################
 ## Sampling Model Parameters and Estimates

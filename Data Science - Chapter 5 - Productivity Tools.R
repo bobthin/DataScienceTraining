@@ -4,11 +4,16 @@
 ## CHAPTER 5. PRODUCTIVITY TOOLS
 #################################################################################
 
+<<<<<<< HEAD
 setwd("~/Documents/Trainings/DataScienceTraining")
+=======
+setwd("~/Documents/Trainings/R for Analytics")
+>>>>>>> e9b2556e22f9d82e0337e10628a5eac57d688ace
 
 ###############################
 ## 
 
+<<<<<<< HEAD
 Code
 
 ls #list dir content
@@ -24,6 +29,8 @@ cd -  # whatever dir you were before
   cd  # return to the home dir
 mv path-to-file path-to-destination-directory
 rm filename-1 filename-2 filename-3
+=======
+>>>>>>> e9b2556e22f9d82e0337e10628a5eac57d688ace
 
 
 

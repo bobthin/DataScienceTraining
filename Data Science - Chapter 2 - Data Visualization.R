@@ -4,8 +4,11 @@
 ## CHAPTER 2. DATA VISUALIZATION
 #################################################################################
 
+<<<<<<< HEAD
 setwd("~/Documents/Trainings/DataScienceTraining")
 
+=======
+>>>>>>> e9b2556e22f9d82e0337e10628a5eac57d688ace
 library(dslabs)
 data(murders)
 
