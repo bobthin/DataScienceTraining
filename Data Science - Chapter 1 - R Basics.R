@@ -4,6 +4,7 @@
 ## CHAPTER 1. R BASICS.
 #################################################################################
 
+#Actualización a GitHub
 setwd("~/Documents/Trainings/DataScienceTraining")
 
 library(tidyverse)
