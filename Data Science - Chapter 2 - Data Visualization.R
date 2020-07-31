@@ -178,7 +178,7 @@ p
 murders %>% ggplot() +
   geom_point(aes(x = population/10^6, y = total))
 
-# add points layer to predefined ggplot object
+P# add points layer to predefined ggplot object
 p <- ggplot(data = murders)
 p + geom_point(aes(population/10^6, total))
 
